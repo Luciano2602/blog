@@ -1,0 +1,38 @@
+h1{
+    margin-top: 60px; 
+}
+
+.clsMargem{
+   margin-left: 20px
+}
+
+.clsNossoTimeR{
+
+    float: right;
+}
+/* roda pé */
+
+.largura-footer{
+    height: 40px;
+}
+.text-rodape-p{
+    font-size: 15px;
+}
+.text-rodape-p-dir{
+    text-align: right;
+}
+.font-lg-p{
+    font-size: 20px;
+}
+
+
+
+/* // rodape*/
+
+
+@media (max-width:380px){
+
+    .text-rodape-p{
+        font-size: 12px;
+    }
+}
